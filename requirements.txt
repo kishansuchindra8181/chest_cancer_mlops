@@ -1,0 +1,10 @@
+tensorflow==2.15.1
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+scikit-learn
+Pillow
+pytest
+httpx
