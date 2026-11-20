@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chest Cancer Classification – End-to-End MLOps
 
 An end-to-end machine learning project that classifies lung CT scan images into three categories: **Bengin, Malignant, and Normal**. The project combines deep learning, FastAPI, Docker, GitHub Actions, and Docker Hub to demonstrate an automated ML deployment workflow.
@@ -159,3 +160,6 @@ This project is developed for educational and research purposes. It is not a cli
 GitHub: https://github.com/CodewithDeepakChaudhary
 
 Project: https://github.com/CodewithDeepakChaudhary/chest-cancer-mlops
+=======
+# chest_cancer_mlops
+>>>>>>> 031c539ce735343e61a389462176ee389111b9bc
